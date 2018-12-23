@@ -1,3 +1,4 @@
+// Package gopensky contains Go bindings for the OpenSky REST API.
 package gopensky
 
 import (
